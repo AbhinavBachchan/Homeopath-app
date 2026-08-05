@@ -1,0 +1,18 @@
+# Node modules
+node_modules/
+
+# Dist/build output
+dist/
+
+# Angular cache
+/.angular/
+
+# IDE files
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Lock files
+package-lock.json
